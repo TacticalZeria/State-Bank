@@ -1,0 +1,30 @@
+{
+    "1507258270715346957": {
+        "enabled": false,
+        "log_channel_id": null,
+        "auto_kick": false,
+        "account_age_seconds": 3600,
+        "join_limit": 8,
+        "join_window_seconds": 20,
+        "message_limit": 6,
+        "message_window_seconds": 8,
+        "mention_limit": 8,
+        "lockdown": false,
+        "locked_channel_ids": [],
+        "whitelist_role_ids": []
+    },
+    "1199932601822085190": {
+        "enabled": false,
+        "log_channel_id": null,
+        "auto_kick": false,
+        "account_age_seconds": 3600,
+        "join_limit": 8,
+        "join_window_seconds": 20,
+        "message_limit": 6,
+        "message_window_seconds": 8,
+        "mention_limit": 8,
+        "lockdown": false,
+        "locked_channel_ids": [],
+        "whitelist_role_ids": []
+    }
+}
